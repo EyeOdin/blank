@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Service
+ServiceTypes=Krita/PythonPlugin
+X-KDE-Library=blank
+X-Python-2-Compatible=false
+X-Krita-Manual=blank_manual.html
+Name=Blank
+Comment=no comment
