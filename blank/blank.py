@@ -3,7 +3,6 @@ from krita import *
 from PyQt5 import QtWidgets, QtCore, QtGui, QtSvg, uic
 import os.path
 
-from PyQt5 import QtWidgets, QtSvg
 
 # Set Window Title Name
 DOCKER_NAME = "Blank"
